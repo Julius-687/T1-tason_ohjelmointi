@@ -1,0 +1,10 @@
+C:\Users\julius.ikavalko\Desktop\Iän laskeminen\Iän laskeminen\bin\Debug\Iän laskeminen.exe.config
+C:\Users\julius.ikavalko\Desktop\Iän laskeminen\Iän laskeminen\bin\Debug\Iän laskeminen.exe
+C:\Users\julius.ikavalko\Desktop\Iän laskeminen\Iän laskeminen\bin\Debug\Iän laskeminen.pdb
+C:\Users\julius.ikavalko\Desktop\Iän laskeminen\Iän laskeminen\obj\Debug\Iän laskeminen.csprojAssemblyReference.cache
+C:\Users\julius.ikavalko\Desktop\Iän laskeminen\Iän laskeminen\obj\Debug\Iän_laskeminen.Form1.resources
+C:\Users\julius.ikavalko\Desktop\Iän laskeminen\Iän laskeminen\obj\Debug\Iän_laskeminen.Properties.Resources.resources
+C:\Users\julius.ikavalko\Desktop\Iän laskeminen\Iän laskeminen\obj\Debug\Iän laskeminen.csproj.GenerateResource.cache
+C:\Users\julius.ikavalko\Desktop\Iän laskeminen\Iän laskeminen\obj\Debug\Iän laskeminen.csproj.CoreCompileInputs.cache
+C:\Users\julius.ikavalko\Desktop\Iän laskeminen\Iän laskeminen\obj\Debug\Iän laskeminen.exe
+C:\Users\julius.ikavalko\Desktop\Iän laskeminen\Iän laskeminen\obj\Debug\Iän laskeminen.pdb
