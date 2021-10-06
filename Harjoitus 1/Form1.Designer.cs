@@ -36,7 +36,7 @@ namespace Harjoitus_1
             // VaihdaBT
             // 
             this.VaihdaBT.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.VaihdaBT.Location = new System.Drawing.Point(288, 179);
+            this.VaihdaBT.Location = new System.Drawing.Point(126, 89);
             this.VaihdaBT.Name = "VaihdaBT";
             this.VaihdaBT.Size = new System.Drawing.Size(134, 62);
             this.VaihdaBT.TabIndex = 0;
@@ -48,7 +48,7 @@ namespace Harjoitus_1
             // 
             this.OtsikkoLB.AutoSize = true;
             this.OtsikkoLB.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.OtsikkoLB.Location = new System.Drawing.Point(312, 106);
+            this.OtsikkoLB.Location = new System.Drawing.Point(150, 42);
             this.OtsikkoLB.Name = "OtsikkoLB";
             this.OtsikkoLB.Size = new System.Drawing.Size(84, 25);
             this.OtsikkoLB.TabIndex = 1;
@@ -58,7 +58,7 @@ namespace Harjoitus_1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(417, 235);
             this.Controls.Add(this.OtsikkoLB);
             this.Controls.Add(this.VaihdaBT);
             this.Name = "harjoitus1";
