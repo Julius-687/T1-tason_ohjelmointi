@@ -39,7 +39,7 @@
             // LukuYksiTB
             // 
             this.LukuYksiTB.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.LukuYksiTB.Location = new System.Drawing.Point(12, 35);
+            this.LukuYksiTB.Location = new System.Drawing.Point(12, 37);
             this.LukuYksiTB.Name = "LukuYksiTB";
             this.LukuYksiTB.Size = new System.Drawing.Size(134, 31);
             this.LukuYksiTB.TabIndex = 0;
@@ -47,7 +47,7 @@
             // LukuKaksiTB
             // 
             this.LukuKaksiTB.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.LukuKaksiTB.Location = new System.Drawing.Point(205, 35);
+            this.LukuKaksiTB.Location = new System.Drawing.Point(205, 37);
             this.LukuKaksiTB.Name = "LukuKaksiTB";
             this.LukuKaksiTB.Size = new System.Drawing.Size(145, 31);
             this.LukuKaksiTB.TabIndex = 1;
@@ -59,9 +59,9 @@
             this.LaskutoimitusCB.Items.AddRange(new object[] {
             "+",
             "-",
-            "/",
-            "*"});
-            this.LaskutoimitusCB.Location = new System.Drawing.Point(152, 35);
+            "*",
+            "/"});
+            this.LaskutoimitusCB.Location = new System.Drawing.Point(152, 36);
             this.LaskutoimitusCB.Name = "LaskutoimitusCB";
             this.LaskutoimitusCB.Size = new System.Drawing.Size(47, 33);
             this.LaskutoimitusCB.TabIndex = 2;
@@ -80,7 +80,7 @@
             // 
             this.VastausLB.AutoSize = true;
             this.VastausLB.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.VastausLB.Location = new System.Drawing.Point(384, 40);
+            this.VastausLB.Location = new System.Drawing.Point(387, 40);
             this.VastausLB.Name = "VastausLB";
             this.VastausLB.Size = new System.Drawing.Size(23, 25);
             this.VastausLB.TabIndex = 4;
@@ -90,7 +90,7 @@
             // LaskeBT
             // 
             this.LaskeBT.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.LaskeBT.Location = new System.Drawing.Point(429, 35);
+            this.LaskeBT.Location = new System.Drawing.Point(480, 35);
             this.LaskeBT.Name = "LaskeBT";
             this.LaskeBT.Size = new System.Drawing.Size(98, 34);
             this.LaskeBT.TabIndex = 5;
@@ -102,7 +102,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(599, 102);
             this.Controls.Add(this.LaskeBT);
             this.Controls.Add(this.VastausLB);
             this.Controls.Add(this.label1);
