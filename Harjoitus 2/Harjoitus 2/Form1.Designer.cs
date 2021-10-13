@@ -49,7 +49,7 @@ namespace Harjoitus_2
             // 
             this.TulostusLB.AutoSize = true;
             this.TulostusLB.Font = new System.Drawing.Font("Segoe Script", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.TulostusLB.Location = new System.Drawing.Point(12, 74);
+            this.TulostusLB.Location = new System.Drawing.Point(12, 56);
             this.TulostusLB.Name = "TulostusLB";
             this.TulostusLB.Size = new System.Drawing.Size(72, 33);
             this.TulostusLB.TabIndex = 1;
@@ -81,7 +81,7 @@ namespace Harjoitus_2
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Salmon;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(798, 136);
             this.Controls.Add(this.TulostaBT);
             this.Controls.Add(this.ViestiTB);
             this.Controls.Add(this.TulostusLB);
