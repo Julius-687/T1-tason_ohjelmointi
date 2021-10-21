@@ -46,7 +46,7 @@
             this.VakuutuksetTB = new System.Windows.Forms.TextBox();
             this.NesteetTB = new System.Windows.Forms.TextBox();
             this.RenkaatTB = new System.Windows.Forms.TextBox();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.KilometritCB = new System.Windows.Forms.ComboBox();
             this.VastausLB = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
@@ -197,10 +197,10 @@
             this.RenkaatTB.Size = new System.Drawing.Size(100, 37);
             this.RenkaatTB.TabIndex = 18;
             // 
-            // comboBox1
+            // KilometritCB
             // 
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Items.AddRange(new object[] {
+            this.KilometritCB.FormattingEnabled = true;
+            this.KilometritCB.Items.AddRange(new object[] {
             "5000",
             "10000",
             "15000",
@@ -221,19 +221,20 @@
             "90000",
             "95000",
             "100000"});
-            this.comboBox1.Location = new System.Drawing.Point(638, 248);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(121, 38);
-            this.comboBox1.TabIndex = 19;
+            this.KilometritCB.Location = new System.Drawing.Point(638, 248);
+            this.KilometritCB.Name = "KilometritCB";
+            this.KilometritCB.Size = new System.Drawing.Size(121, 38);
+            this.KilometritCB.TabIndex = 19;
+            this.KilometritCB.SelectedIndexChanged += new System.EventHandler(this.KilometritCB_SelectedIndexChanged);
             // 
             // VastausLB
             // 
             this.VastausLB.AutoSize = true;
             this.VastausLB.Location = new System.Drawing.Point(12, 375);
             this.VastausLB.Name = "VastausLB";
-            this.VastausLB.Size = new System.Drawing.Size(81, 30);
+            this.VastausLB.Size = new System.Drawing.Size(98, 30);
             this.VastausLB.TabIndex = 20;
-            this.VastausLB.Text = "label11";
+            this.VastausLB.Text = "Vastaus";
             this.VastausLB.Visible = false;
             // 
             // KustannusForm
@@ -242,7 +243,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(806, 482);
             this.Controls.Add(this.VastausLB);
-            this.Controls.Add(this.comboBox1);
+            this.Controls.Add(this.KilometritCB);
             this.Controls.Add(this.RenkaatTB);
             this.Controls.Add(this.NesteetTB);
             this.Controls.Add(this.VakuutuksetTB);
@@ -290,7 +291,7 @@
         private System.Windows.Forms.TextBox VakuutuksetTB;
         private System.Windows.Forms.TextBox NesteetTB;
         private System.Windows.Forms.TextBox RenkaatTB;
-        private System.Windows.Forms.ComboBox comboBox1;
+        private System.Windows.Forms.ComboBox KilometritCB;
         private System.Windows.Forms.Label VastausLB;
     }
 }
