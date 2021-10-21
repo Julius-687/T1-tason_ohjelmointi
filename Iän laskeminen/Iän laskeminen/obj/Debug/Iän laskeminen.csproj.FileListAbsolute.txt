@@ -8,3 +8,12 @@ C:\Users\julius.ikavalko\Desktop\Iän laskeminen\Iän laskeminen\obj\Debug\Iän 
 C:\Users\julius.ikavalko\Desktop\Iän laskeminen\Iän laskeminen\obj\Debug\Iän laskeminen.csproj.CoreCompileInputs.cache
 C:\Users\julius.ikavalko\Desktop\Iän laskeminen\Iän laskeminen\obj\Debug\Iän laskeminen.exe
 C:\Users\julius.ikavalko\Desktop\Iän laskeminen\Iän laskeminen\obj\Debug\Iän laskeminen.pdb
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Iän laskeminen\Iän laskeminen\bin\Debug\Iän laskeminen.exe.config
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Iän laskeminen\Iän laskeminen\bin\Debug\Iän laskeminen.exe
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Iän laskeminen\Iän laskeminen\bin\Debug\Iän laskeminen.pdb
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Iän laskeminen\Iän laskeminen\obj\Debug\Iän_laskeminen.Form1.resources
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Iän laskeminen\Iän laskeminen\obj\Debug\Iän_laskeminen.Properties.Resources.resources
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Iän laskeminen\Iän laskeminen\obj\Debug\Iän laskeminen.csproj.GenerateResource.cache
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Iän laskeminen\Iän laskeminen\obj\Debug\Iän laskeminen.csproj.CoreCompileInputs.cache
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Iän laskeminen\Iän laskeminen\obj\Debug\Iän laskeminen.exe
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Iän laskeminen\Iän laskeminen\obj\Debug\Iän laskeminen.pdb
