@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0CE32C59-E3CC-4A10-B259-F30A2A1ACE16}</ProjectGuid>
+    <ProjectGuid>{ADA37972-8226-496E-8E3E-23B57983D1FF}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>BMI_laskuri</RootNamespace>
     <AssemblyName>BMI-laskuri</AssemblyName>

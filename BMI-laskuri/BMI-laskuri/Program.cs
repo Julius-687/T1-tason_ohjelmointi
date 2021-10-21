@@ -16,7 +16,7 @@ namespace BMI_laskuri
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new BMIForm());
+            Application.Run(new Form1());
         }
     }
 }
