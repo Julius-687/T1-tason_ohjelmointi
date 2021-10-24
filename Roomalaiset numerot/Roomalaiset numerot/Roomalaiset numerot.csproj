@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{FA15C925-BF75-43A9-96A5-BB08C79D0BCC}</ProjectGuid>
+    <ProjectGuid>{5A107EB3-641E-43B0-8B36-BAC16CC6C11D}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>Roomalaiset_numerot</RootNamespace>
     <AssemblyName>Roomalaiset numerot</AssemblyName>

@@ -1,4 +1,5 @@
-﻿namespace Roomalaiset_numerot
+﻿
+namespace Roomalaiset_numerot
 {
     partial class RoomalaisiksiForm
     {
@@ -39,7 +40,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Comic Sans MS", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(68, 9);
+            this.label1.Location = new System.Drawing.Point(22, 9);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(678, 90);
             this.label1.TabIndex = 0;
@@ -48,7 +49,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(66, 119);
+            this.label2.Location = new System.Drawing.Point(28, 131);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(562, 27);
             this.label2.TabIndex = 1;
@@ -56,7 +57,7 @@
             // 
             // TekstiTB
             // 
-            this.TekstiTB.Location = new System.Drawing.Point(634, 116);
+            this.TekstiTB.Location = new System.Drawing.Point(596, 128);
             this.TekstiTB.Name = "TekstiTB";
             this.TekstiTB.Size = new System.Drawing.Size(100, 34);
             this.TekstiTB.TabIndex = 2;
@@ -65,7 +66,7 @@
             // 
             this.VastausLB.AutoSize = true;
             this.VastausLB.Font = new System.Drawing.Font("Comic Sans MS", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.VastausLB.Location = new System.Drawing.Point(62, 165);
+            this.VastausLB.Location = new System.Drawing.Point(28, 179);
             this.VastausLB.Name = "VastausLB";
             this.VastausLB.Size = new System.Drawing.Size(161, 51);
             this.VastausLB.TabIndex = 3;
@@ -74,9 +75,9 @@
             // 
             // MuutaBT
             // 
-            this.MuutaBT.Location = new System.Drawing.Point(634, 179);
+            this.MuutaBT.Location = new System.Drawing.Point(596, 179);
             this.MuutaBT.Name = "MuutaBT";
-            this.MuutaBT.Size = new System.Drawing.Size(100, 36);
+            this.MuutaBT.Size = new System.Drawing.Size(100, 34);
             this.MuutaBT.TabIndex = 4;
             this.MuutaBT.Text = "Muuta";
             this.MuutaBT.UseVisualStyleBackColor = true;
@@ -86,14 +87,14 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 27F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(816, 241);
+            this.ClientSize = new System.Drawing.Size(726, 256);
             this.Controls.Add(this.MuutaBT);
             this.Controls.Add(this.VastausLB);
             this.Controls.Add(this.TekstiTB);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Font = new System.Drawing.Font("Comic Sans MS", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Margin = new System.Windows.Forms.Padding(6);
+            this.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
             this.Name = "RoomalaisiksiForm";
             this.Text = "Numeroiden muutos arabialaisista roomalaisiksi";
             this.ResumeLayout(false);
