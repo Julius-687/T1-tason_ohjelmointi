@@ -1,0 +1,10 @@
+C:\Users\julius.ikavalko\source\repos\Julius-687\T1-tason_ohjelmointi\Tehtävä 18\Tehtävä 18\bin\Debug\Tehtävä 18.exe.config
+C:\Users\julius.ikavalko\source\repos\Julius-687\T1-tason_ohjelmointi\Tehtävä 18\Tehtävä 18\bin\Debug\Tehtävä 18.exe
+C:\Users\julius.ikavalko\source\repos\Julius-687\T1-tason_ohjelmointi\Tehtävä 18\Tehtävä 18\bin\Debug\Tehtävä 18.pdb
+C:\Users\julius.ikavalko\source\repos\Julius-687\T1-tason_ohjelmointi\Tehtävä 18\Tehtävä 18\obj\Debug\Tehtävä 18.csprojAssemblyReference.cache
+C:\Users\julius.ikavalko\source\repos\Julius-687\T1-tason_ohjelmointi\Tehtävä 18\Tehtävä 18\obj\Debug\Tehtävä_18.AvainhenkilotForm.resources
+C:\Users\julius.ikavalko\source\repos\Julius-687\T1-tason_ohjelmointi\Tehtävä 18\Tehtävä 18\obj\Debug\Tehtävä_18.Properties.Resources.resources
+C:\Users\julius.ikavalko\source\repos\Julius-687\T1-tason_ohjelmointi\Tehtävä 18\Tehtävä 18\obj\Debug\Tehtävä 18.csproj.GenerateResource.cache
+C:\Users\julius.ikavalko\source\repos\Julius-687\T1-tason_ohjelmointi\Tehtävä 18\Tehtävä 18\obj\Debug\Tehtävä 18.csproj.CoreCompileInputs.cache
+C:\Users\julius.ikavalko\source\repos\Julius-687\T1-tason_ohjelmointi\Tehtävä 18\Tehtävä 18\obj\Debug\Tehtävä 18.exe
+C:\Users\julius.ikavalko\source\repos\Julius-687\T1-tason_ohjelmointi\Tehtävä 18\Tehtävä 18\obj\Debug\Tehtävä 18.pdb

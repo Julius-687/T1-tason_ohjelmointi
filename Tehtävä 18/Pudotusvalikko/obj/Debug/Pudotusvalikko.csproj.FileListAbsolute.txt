@@ -1,0 +1,10 @@
+C:\Users\jere.hakala\source\repos\Pudotusvalikko\Pudotusvalikko\bin\Debug\Pudotusvalikko.exe.config
+C:\Users\jere.hakala\source\repos\Pudotusvalikko\Pudotusvalikko\bin\Debug\Pudotusvalikko.exe
+C:\Users\jere.hakala\source\repos\Pudotusvalikko\Pudotusvalikko\bin\Debug\Pudotusvalikko.pdb
+C:\Users\jere.hakala\source\repos\Pudotusvalikko\Pudotusvalikko\obj\Debug\Pudotusvalikko.csprojAssemblyReference.cache
+C:\Users\jere.hakala\source\repos\Pudotusvalikko\Pudotusvalikko\obj\Debug\Pudotusvalikko.avainhenkilot.resources
+C:\Users\jere.hakala\source\repos\Pudotusvalikko\Pudotusvalikko\obj\Debug\Pudotusvalikko.Properties.Resources.resources
+C:\Users\jere.hakala\source\repos\Pudotusvalikko\Pudotusvalikko\obj\Debug\Pudotusvalikko.csproj.GenerateResource.cache
+C:\Users\jere.hakala\source\repos\Pudotusvalikko\Pudotusvalikko\obj\Debug\Pudotusvalikko.csproj.CoreCompileInputs.cache
+C:\Users\jere.hakala\source\repos\Pudotusvalikko\Pudotusvalikko\obj\Debug\Pudotusvalikko.exe
+C:\Users\jere.hakala\source\repos\Pudotusvalikko\Pudotusvalikko\obj\Debug\Pudotusvalikko.pdb
