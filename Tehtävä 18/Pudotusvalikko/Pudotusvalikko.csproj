@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E16AE1F4-E28E-482D-9F66-E3DC2E9EAE65}</ProjectGuid>
+    <ProjectGuid>{291C4941-5663-4A39-B5CA-CACC098B4A47}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Tehtävä_18</RootNamespace>
-    <AssemblyName>Tehtävä 18</AssemblyName>
+    <RootNamespace>Pudotusvalikko</RootNamespace>
+    <AssemblyName>Pudotusvalikko</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

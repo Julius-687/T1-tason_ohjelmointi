@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Tehtävä_18
+namespace Pudotusvalikko
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace Tehtävä_18
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new AvainhenkilotForm());
+            Application.Run(new avainhenkilot());
         }
     }
 }
