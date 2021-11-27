@@ -1,0 +1,30 @@
+C:\Users\jere.hakala\source\repos\Pudotusvalikko\Pudotusvalikko\bin\Debug\Pudotusvalikko.exe.config
+C:\Users\jere.hakala\source\repos\Pudotusvalikko\Pudotusvalikko\bin\Debug\Pudotusvalikko.exe
+C:\Users\jere.hakala\source\repos\Pudotusvalikko\Pudotusvalikko\bin\Debug\Pudotusvalikko.pdb
+C:\Users\jere.hakala\source\repos\Pudotusvalikko\Pudotusvalikko\obj\Debug\Pudotusvalikko.csprojAssemblyReference.cache
+C:\Users\jere.hakala\source\repos\Pudotusvalikko\Pudotusvalikko\obj\Debug\Pudotusvalikko.avainhenkilot.resources
+C:\Users\jere.hakala\source\repos\Pudotusvalikko\Pudotusvalikko\obj\Debug\Pudotusvalikko.Properties.Resources.resources
+C:\Users\jere.hakala\source\repos\Pudotusvalikko\Pudotusvalikko\obj\Debug\Pudotusvalikko.csproj.GenerateResource.cache
+C:\Users\jere.hakala\source\repos\Pudotusvalikko\Pudotusvalikko\obj\Debug\Pudotusvalikko.csproj.CoreCompileInputs.cache
+C:\Users\jere.hakala\source\repos\Pudotusvalikko\Pudotusvalikko\obj\Debug\Pudotusvalikko.exe
+C:\Users\jere.hakala\source\repos\Pudotusvalikko\Pudotusvalikko\obj\Debug\Pudotusvalikko.pdb
+C:\Users\Justus\Source\Repos\JereHakala03\T1-tason_ohjelmointi\Pudotusvalikko\Pudotusvalikko\bin\Debug\Pudotusvalikko.exe.config
+C:\Users\Justus\Source\Repos\JereHakala03\T1-tason_ohjelmointi\Pudotusvalikko\Pudotusvalikko\bin\Debug\Pudotusvalikko.exe
+C:\Users\Justus\Source\Repos\JereHakala03\T1-tason_ohjelmointi\Pudotusvalikko\Pudotusvalikko\bin\Debug\Pudotusvalikko.pdb
+C:\Users\Justus\Source\Repos\JereHakala03\T1-tason_ohjelmointi\Pudotusvalikko\Pudotusvalikko\obj\Debug\Pudotusvalikko.csproj.AssemblyReference.cache
+C:\Users\Justus\Source\Repos\JereHakala03\T1-tason_ohjelmointi\Pudotusvalikko\Pudotusvalikko\obj\Debug\Pudotusvalikko.avainhenkilot.resources
+C:\Users\Justus\Source\Repos\JereHakala03\T1-tason_ohjelmointi\Pudotusvalikko\Pudotusvalikko\obj\Debug\Pudotusvalikko.Properties.Resources.resources
+C:\Users\Justus\Source\Repos\JereHakala03\T1-tason_ohjelmointi\Pudotusvalikko\Pudotusvalikko\obj\Debug\Pudotusvalikko.csproj.GenerateResource.cache
+C:\Users\Justus\Source\Repos\JereHakala03\T1-tason_ohjelmointi\Pudotusvalikko\Pudotusvalikko\obj\Debug\Pudotusvalikko.csproj.CoreCompileInputs.cache
+C:\Users\Justus\Source\Repos\JereHakala03\T1-tason_ohjelmointi\Pudotusvalikko\Pudotusvalikko\obj\Debug\Pudotusvalikko.exe
+C:\Users\Justus\Source\Repos\JereHakala03\T1-tason_ohjelmointi\Pudotusvalikko\Pudotusvalikko\obj\Debug\Pudotusvalikko.pdb
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Tehtävä 18\Pudotusvalikko\bin\Debug\Pudotusvalikko.exe.config
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Tehtävä 18\Pudotusvalikko\bin\Debug\Pudotusvalikko.exe
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Tehtävä 18\Pudotusvalikko\bin\Debug\Pudotusvalikko.pdb
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Tehtävä 18\Pudotusvalikko\obj\Debug\Pudotusvalikko.csproj.AssemblyReference.cache
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Tehtävä 18\Pudotusvalikko\obj\Debug\Pudotusvalikko.avainhenkilot.resources
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Tehtävä 18\Pudotusvalikko\obj\Debug\Pudotusvalikko.Properties.Resources.resources
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Tehtävä 18\Pudotusvalikko\obj\Debug\Pudotusvalikko.csproj.GenerateResource.cache
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Tehtävä 18\Pudotusvalikko\obj\Debug\Pudotusvalikko.csproj.CoreCompileInputs.cache
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Tehtävä 18\Pudotusvalikko\obj\Debug\Pudotusvalikko.exe
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Tehtävä 18\Pudotusvalikko\obj\Debug\Pudotusvalikko.pdb
